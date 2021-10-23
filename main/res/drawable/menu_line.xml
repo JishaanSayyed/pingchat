@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <style android:name="Divider">
+        <item android:name="android:layout_width">match_parent</item>
+        <item android:name="android:layout_height">1dp</item>
+        <item android:name="android:background">?android:attr/listDivider</item>
+    </style>
+
+</selector>
